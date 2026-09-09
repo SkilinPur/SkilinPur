@@ -1,17 +1,24 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Skilin — dev & network infra engineer">
+  <samp>
+    <b><code>SkilinPur</code></b> · dev &amp; network infra engineer<br>
+    Arch Linux · Hyprland · self-hosted
+  </samp>
 </p>
 
-<div align="center">
-  <samp>
-    <b>// dev &amp; network infra</b> — Arch Linux, Hyprland, self-hosted.<br>
-    Пишу GUI на PySide6, веб на PHP/SQLite, управляю сетями на zapret / sing-box / xray.
-  </samp>
-</div>
+```text
+$ whoami
+SkilinPur
+
+$ uname -sv
+Arch Linux
+
+$ cat ~/focus
+PySide6 GUI · zapret/sing-box/xray · PHP + SQLite · self-hosted
+```
 
 ---
 
-### // stack
+## // stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
@@ -41,43 +48,24 @@
 
 ---
 
-### // projects
+## // projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <samp>
-        <b>zapret-GUI</b> &nbsp;<a href="https://github.com/SkilinPur/zapret-GUI"><img src="https://skillicons.dev/icons?i=github" height="18" alt="repo" /></a><br>
-        <sub>Linux &middot; PySide6</sub><br>
-        Обход замедления YouTube/Discord через zapret. Статус, метрики, вкл/выкл одной кнопкой.
-      </samp>
-    </td>
-    <td width="50%" valign="top">
-      <samp>
-        <b>zapret-GUI-Windows</b> &nbsp;<a href="https://github.com/SkilinPur/zapret-GUI-Windows"><img src="https://skillicons.dev/icons?i=github" height="18" alt="repo" /></a><br>
-        <sub>Windows &middot; PySide6 + WinDivert</sub><br>
-        Тот же GUI, обёртка над winws. Работает без прав администратора на постоянной основе.
-      </samp>
-    </td>
-  </tr>
-</table>
+```text
+$ ls ~/projects
+zapret-GUI           GUI для zapret на Linux (обход замедления YouTube/Discord)   [public]
+zapret-GUI-Windows   то же самое для Windows, обёртка над winws                   [public]
+tuf-gateway          VPN-шлюз на ASUS TUF-AX3000 V2 (sing-box tproxy)             [private]
+TGBOT                приватный Telegram-бот на aiogram 3, модульный              [private]
+iniproject.ru        сайт команды InIProject                                      [public]
+```
 
-<p align="center">
-  <samp>
-    <b>tuf-gateway</b> <sub>приватный &middot; ASUS TUF-AX3000 V2 / Asuswrt-Merlin</sub><br>
-    VPN-шлюз на роутере: sing-box tproxy, заблокированное — через xray, остальное — напрямую.
-  </samp>
-</p>
-<p align="center">
-  <samp>
-    <b>TGBOT</b> <sub>приватный &middot; aiogram 3</sub> — модульный Telegram-бот с whitelist и защитой диска.<br>
-    <b>InIProject</b> — сайт команды <sub><code>// iniproject.ru</code></sub>.
-  </samp>
-</p>
+**Открытое:**
+- [zapret-GUI](https://github.com/SkilinPur/zapret-GUI) — Linux, PySide6
+- [zapret-GUI-Windows](https://github.com/SkilinPur/zapret-GUI-Windows) — Windows, PySide6 + WinDivert
 
 ---
 
-### // stats
+## // stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkilinPur&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=E8E8E8" />
@@ -96,12 +84,7 @@
 <p align="center">
   <samp>
     <code>const goals = [] // todo: add sleep</code><br>
-    <code>while (true) { code(); game(); }</code>
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
+    <code>while (true) { code(); game(); }</code><br><br>
     <sub><code>&gt; echo "спасибо, что заглянул"</code></sub>
   </samp>
 </p>
