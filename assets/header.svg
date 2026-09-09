@@ -17,8 +17,8 @@
   <text x="56" y="82" font-family="JetBrains Mono, ui-monospace, monospace" font-size="15" fill="#666">~/profile.sh</text>
   <text x="56" y="108" font-family="JetBrains Mono, ui-monospace, monospace" font-size="15" fill="#666">$ whoami</text>
 
-  <text x="56" y="190" font-family="JetBrains Mono, ui-monospace, monospace" font-size="92" font-weight="700" fill="#E8E8E8">Skilin</text>
-  <rect x="524" y="150" width="12" height="92" fill="#E63946"/>
+  <text x="56" y="190" font-family="JetBrains Mono, ui-monospace, monospace" font-size="72" font-weight="700" fill="#E8E8E8">SkilinPur</text>
+  <rect x="500" y="132" width="14" height="56" fill="#E63946"/>
 
   <text x="56" y="236" font-family="JetBrains Mono, ui-monospace, monospace" font-size="20" fill="#9A9A9A">&gt; dev &amp; network infra engineer</text>
   <text x="56" y="266" font-family="JetBrains Mono, ui-monospace, monospace" font-size="17" fill="#E63946">// python &#183; php &#183; web &#183; net</text>
