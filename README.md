@@ -1,20 +1,10 @@
 <p align="center">
-  <samp>
-    <b><code>SkilinPur</code></b> · dev &amp; network infra engineer<br>
-    Arch Linux · Hyprland · self-hosted
-  </samp>
+  <img src="assets/portfolio.svg" width="100%" alt="SkilinPur — dev & network infra engineer" />
 </p>
 
-```text
-$ whoami
-SkilinPur
-
-$ uname -sv
-Arch Linux
-
-$ cat ~/focus
-PySide6 GUI · zapret/sing-box/xray · PHP + SQLite · self-hosted
-```
+<p align="center">
+  <samp>Arch Linux · Hyprland · self-hosted</samp>
+</p>
 
 ---
 
