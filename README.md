@@ -44,8 +44,6 @@
 $ ls ~/projects
 zapret-GUI           GUI для zapret на Linux (обход замедления YouTube/Discord)   [public]
 zapret-GUI-Windows   то же самое для Windows, обёртка над winws                   [public]
-tuf-gateway          VPN-шлюз на ASUS TUF-AX3000 V2 (sing-box tproxy)             [private]
-TGBOT                приватный Telegram-бот на aiogram 3, модульный              [private]
 iniproject.ru        сайт команды InIProject                                      [public]
 ```
 
