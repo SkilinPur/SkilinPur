@@ -58,15 +58,19 @@ iniproject.ru        сайт команды InIProject                         
 ## // stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkilinPur&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=E8E8E8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SkilinPur&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=E8E8E8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkilinPur&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=E8E8E8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SkilinPur&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=E8E8E8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SkilinPur&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkilinPur&theme=github_dark&bg_color=0A0A0A&title_color=E63946&text_color=E8E8E8&icon_color=E63946" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkilinPur&hide_border=true&background=0A0A0A&border=262626&stroke=E63946&ring=E63946&fire=E63946&currStreakNum=E8E8E8&currStreakLabel=E63946&sideNums=E8E8E8&sideLabels=9A9A9A&dates=9A9A9A&locale=ru" />
 </p>
 
 ---
