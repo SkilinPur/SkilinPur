@@ -21,11 +21,11 @@
   <text x="48" y="54" class="mono" font-size="15" fill="#666">$ whoami</text>
   <text x="48" y="112" class="mono" font-size="64" font-weight="700" fill="#E8E8E8">SkilinPur</text>
   <rect x="404" y="64" width="12" height="52" fill="#E63946"/>
-  <text x="48" y="146" class="mono" font-size="17" fill="#9A9A9A">&gt; dev &amp; network infra engineer</text>
-  <text x="48" y="170" class="mono" font-size="15" fill="#E63946">// python · php · sqlite · js · net</text>
+  <text x="48" y="146" class="mono" font-size="17" fill="#9A9A9A">&gt; разработчик · сетевой инженер</text>
+  <text x="48" y="170" class="mono" font-size="15" fill="#E63946">// python · php · sqlite · js · сеть</text>
 
   <line x1="48" y1="202" x2="852" y2="202" stroke="#262626" stroke-width="1"/>
-  <text x="48" y="238" class="mono" font-size="14" fill="#666">// featured projects</text>
+  <text x="48" y="238" class="mono" font-size="14" fill="#666">// избранные проекты</text>
 
   <!-- project 1 -->
   <rect x="48" y="256" width="392" height="164" rx="10" fill="#161616" stroke="#262626"/>
@@ -34,8 +34,8 @@
   <text x="77" y="326" class="mono" font-size="11" fill="#FF6B76">Linux</text>
   <rect x="134" y="312" width="76" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="143" y="326" class="mono" font-size="11" fill="#FF6B76">PySide6</text>
-  <text x="68" y="358" class="sans" font-size="14" fill="#9A9A9A">Bypass YouTube / Discord</text>
-  <text x="68" y="378" class="sans" font-size="14" fill="#9A9A9A">throttling via zapret</text>
+  <text x="68" y="358" class="sans" font-size="14" fill="#9A9A9A">Обход замедления YouTube / Discord</text>
+  <text x="68" y="378" class="sans" font-size="14" fill="#9A9A9A">через zapret</text>
   <text x="68" y="402" class="mono" font-size="12" fill="#E63946">github.com/SkilinPur/zapret-GUI</text>
 
   <!-- project 2 -->
@@ -45,21 +45,21 @@
   <text x="489" y="326" class="mono" font-size="11" fill="#FF6B76">Windows</text>
   <rect x="556" y="312" width="84" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="565" y="326" class="mono" font-size="11" fill="#FF6B76">WinDivert</text>
-  <text x="480" y="358" class="sans" font-size="14" fill="#9A9A9A">Same GUI, winws wrapper</text>
-  <text x="480" y="378" class="sans" font-size="14" fill="#9A9A9A">for Windows</text>
+  <text x="480" y="358" class="sans" font-size="14" fill="#9A9A9A">Тот же GUI, обёртка над winws</text>
+  <text x="480" y="378" class="sans" font-size="14" fill="#9A9A9A">для Windows</text>
   <text x="480" y="402" class="mono" font-size="12" fill="#E63946">github.com/SkilinPur/zapret-GUI-Windows</text>
 
   <!-- project 3: iniproject.ru -->
   <rect x="48" y="440" width="804" height="140" rx="10" fill="#161616" stroke="#E63946"/>
   <text x="68" y="482" class="mono" font-size="22" font-weight="700" fill="#E8E8E8">iniproject.ru</text>
-  <rect x="256" y="466" width="128" height="20" rx="5" fill="#1C1C1C" stroke="#333333"/>
-  <text x="265" y="480" class="mono" font-size="11" fill="#9A9A9A">in development</text>
+  <rect x="256" y="466" width="122" height="20" rx="5" fill="#1C1C1C" stroke="#333333"/>
+  <text x="265" y="480" class="mono" font-size="11" fill="#9A9A9A">в разработке</text>
   <rect x="68" y="496" width="48" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="77" y="510" class="mono" font-size="11" fill="#FF6B76">PHP</text>
   <rect x="124" y="496" width="64" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="133" y="510" class="mono" font-size="11" fill="#FF6B76">SQLite</text>
   <rect x="196" y="496" width="48" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="205" y="510" class="mono" font-size="11" fill="#FF6B76">Web</text>
-  <text x="68" y="546" class="sans" font-size="14" fill="#9A9A9A">Team website of InIProject — Code &amp; Games</text>
+  <text x="68" y="546" class="sans" font-size="14" fill="#9A9A9A">Сайт команды InIProject — Code &amp; Games</text>
   <text x="68" y="566" class="mono" font-size="12" fill="#E63946">iniproject.ru</text>
 </svg>
