@@ -32,6 +32,7 @@ zapret-GUI           GUI для zapret на Linux (YouTube / Discord)          [
 zapret-GUI-Windows   то же для Windows, обёртка над winws                 [public]
 greenboard           панель управления видеокартой для Linux              [public]
 chzog-app            мобильное приложение участника ЧЗОГ                  [public]
+ininet-win           сетевой сканер и монитор соединений (Windows)         [public]
 iniproject.ru        сайт команды InIProject — Code & Games               [live]
 ```
 
@@ -40,9 +41,10 @@ iniproject.ru        сайт команды InIProject — Code & Games        
 - [zapret-GUI-Windows](https://github.com/SkilinPur/zapret-GUI-Windows) — Windows, PySide6 + WinDivert
 - [greenboard](https://github.com/SkilinPur/greenboard) — Linux, PySide6
 - [chzog-app](https://github.com/SkilinPur/chzog-app) — Flutter, Android / iOS
+- [ininet-win](https://github.com/SkilinPur/ininet-win) — Windows, TUI/CLI
 - [iniproject.ru](https://iniproject.ru) — PHP · SQLite · JS
 
-**Ещё в работе:** сетевой сканер (TUI/CLI), API на FastAPI + PostgreSQL, Telegram-боты на aiogram, инфраструктура на VPS.
+**Ещё в работе:** API на FastAPI + PostgreSQL, Telegram-боты на aiogram, инфраструктура на VPS.
 
 ---
 
