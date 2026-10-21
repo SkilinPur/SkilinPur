@@ -11,29 +11,15 @@
 ## // stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt / pyside6" />
+  <img src="https://skillicons.dev/icons?i=python,qt,flutter,dart,fastapi" height="40" alt="python, qt, flutter, dart, fastapi" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch linux" />
+  <img src="https://skillicons.dev/icons?i=php,js,sqlite,postgres,html,css" height="40" alt="php, js, sqlite, postgres, html, css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,docker,caddy,git" height="40" alt="linux, arch, bash, docker, caddy, git" />
 </p>
 
 ---
@@ -42,14 +28,21 @@
 
 ```text
 $ ls ~/projects
-zapret-GUI           GUI для zapret на Linux (обход замедления YouTube/Discord)   [public]
-zapret-GUI-Windows   то же самое для Windows, обёртка над winws                   [public]
-iniproject.ru        сайт команды InIProject                                      [public]
+zapret-GUI           GUI для zapret на Linux (YouTube / Discord)          [public]
+zapret-GUI-Windows   то же для Windows, обёртка над winws                 [public]
+greenboard           панель управления видеокартой для Linux              [public]
+chzog-app            мобильное приложение участника ЧЗОГ                  [public]
+iniproject.ru        сайт команды InIProject — Code & Games               [live]
 ```
 
 **Открытое:**
 - [zapret-GUI](https://github.com/SkilinPur/zapret-GUI) — Linux, PySide6
 - [zapret-GUI-Windows](https://github.com/SkilinPur/zapret-GUI-Windows) — Windows, PySide6 + WinDivert
+- [greenboard](https://github.com/SkilinPur/greenboard) — Linux, PySide6
+- [chzog-app](https://github.com/SkilinPur/chzog-app) — Flutter, Android / iOS
+- [iniproject.ru](https://iniproject.ru) — PHP · SQLite · JS
+
+**Ещё в работе:** сетевой сканер (TUI/CLI), API на FastAPI + PostgreSQL, Telegram-боты на aiogram, инфраструктура на VPS.
 
 ---
 

@@ -22,7 +22,7 @@
   <text x="48" y="112" class="mono" font-size="64" font-weight="700" fill="#E8E8E8">SkilinPur</text>
   <rect x="404" y="64" width="12" height="52" fill="#E63946"/>
   <text x="48" y="146" class="mono" font-size="17" fill="#9A9A9A">&gt; разработчик · сетевой инженер</text>
-  <text x="48" y="170" class="mono" font-size="15" fill="#E63946">// python · php · sqlite · js · сеть</text>
+  <text x="48" y="170" class="mono" font-size="15" fill="#E63946">// python · flutter · php · linux · сеть</text>
 
   <line x1="48" y1="202" x2="852" y2="202" stroke="#262626" stroke-width="1"/>
   <text x="48" y="238" class="mono" font-size="14" fill="#666">// избранные проекты</text>
@@ -40,20 +40,20 @@
 
   <!-- project 2 -->
   <rect x="460" y="256" width="392" height="164" rx="10" fill="#161616" stroke="#262626"/>
-  <text x="480" y="298" class="mono" font-size="22" font-weight="700" fill="#E8E8E8">zapret-GUI-Windows</text>
-  <rect x="480" y="312" width="68" height="20" rx="5" fill="#231214" stroke="#E63946"/>
-  <text x="489" y="326" class="mono" font-size="11" fill="#FF6B76">Windows</text>
-  <rect x="556" y="312" width="84" height="20" rx="5" fill="#231214" stroke="#E63946"/>
-  <text x="565" y="326" class="mono" font-size="11" fill="#FF6B76">WinDivert</text>
-  <text x="480" y="358" class="sans" font-size="14" fill="#9A9A9A">Тот же GUI, обёртка над winws</text>
-  <text x="480" y="378" class="sans" font-size="14" fill="#9A9A9A">для Windows</text>
-  <text x="480" y="402" class="mono" font-size="12" fill="#E63946">github.com/SkilinPur/zapret-GUI-Windows</text>
+  <text x="480" y="298" class="mono" font-size="22" font-weight="700" fill="#E8E8E8">chzog-app</text>
+  <rect x="480" y="312" width="66" height="20" rx="5" fill="#231214" stroke="#E63946"/>
+  <text x="489" y="326" class="mono" font-size="11" fill="#FF6B76">Flutter</text>
+  <rect x="554" y="312" width="72" height="20" rx="5" fill="#231214" stroke="#E63946"/>
+  <text x="563" y="326" class="mono" font-size="11" fill="#FF6B76">Android</text>
+  <text x="480" y="358" class="sans" font-size="14" fill="#9A9A9A">Мобильное приложение участника ЧЗОГ</text>
+  <text x="480" y="378" class="sans" font-size="14" fill="#9A9A9A">Flutter · Android + iOS</text>
+  <text x="480" y="402" class="mono" font-size="12" fill="#E63946">github.com/SkilinPur/chzog-app</text>
 
   <!-- project 3: iniproject.ru -->
   <rect x="48" y="440" width="804" height="140" rx="10" fill="#161616" stroke="#E63946"/>
   <text x="68" y="482" class="mono" font-size="22" font-weight="700" fill="#E8E8E8">iniproject.ru</text>
-  <rect x="256" y="466" width="122" height="20" rx="5" fill="#1C1C1C" stroke="#333333"/>
-  <text x="265" y="480" class="mono" font-size="11" fill="#9A9A9A">в разработке</text>
+  <rect x="256" y="466" width="62" height="20" rx="5" fill="#0F2418" stroke="#2EA043"/>
+  <text x="265" y="480" class="mono" font-size="11" fill="#3FB950">live</text>
   <rect x="68" y="496" width="48" height="20" rx="5" fill="#231214" stroke="#E63946"/>
   <text x="77" y="510" class="mono" font-size="11" fill="#FF6B76">PHP</text>
   <rect x="124" y="496" width="64" height="20" rx="5" fill="#231214" stroke="#E63946"/>
