@@ -37,8 +37,8 @@ iniproject.ru        сайт команды InIProject — Code & Games        
 ```
 
 **Открытое:**
-- [zapret-GUI](https://github.com/SkilinPur/zapret-GUI) — Linux, PySide6
-- [zapret-GUI-Windows](https://github.com/SkilinPur/zapret-GUI-Windows) — Windows, PySide6 + WinDivert
+- [zapret-GUI](https://github.com/SkilinPur/zapret-GUI) — Linux, PySide6 · форк [zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+- [zapret-GUI-Windows](https://github.com/SkilinPur/zapret-GUI-Windows) — Windows, PySide6 + WinDivert · форк [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - [greenboard](https://github.com/SkilinPur/greenboard) — Linux, PySide6
 - [chzog-app](https://github.com/SkilinPur/chzog-app) — Flutter, Android / iOS
 - [ininet-win](https://github.com/SkilinPur/ininet-win) — Windows, TUI/CLI
